@@ -115,24 +115,3 @@ A step by step series of examples that tell you how to get a development env run
 - Open [localhost:3000](localhost:3000) in the browser
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-authors-a-name--authorsa)
-
-## :pencil2: Authors <a name="authors"></a>
-
-- [Ishan Kulkarni](https://www.linkedin.com/in/anurag-g-a01531198)
-- [Anurag Ghosh](https://www.linkedin.com/in/kulkarniishan)
-- [Dhruv Solanki](#)
-- [Rajas Bondale](#)
-- [Aditi Pawar](#)
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-built-using-a-name--built_usinga)
-
-## :brain: Contribution over Time <a name="contribution"></a>
-
-<div align="center">
- <a href="https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=FASAL-MITRA-SIH-22/Fasal-mitra-frontend">
-  <img src="https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=FASAL-MITRA-SIH-22/Fasal-mitra-frontend" alt="Contribution image"/>
- </a>
-</div>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-authors-a-name--authorsa)
-
