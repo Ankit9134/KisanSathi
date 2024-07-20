@@ -51,18 +51,6 @@ The key features of the project are: 
  <li>A chatbot for personal communication (alerts, updates, etc.)</li>
 </ol>
 
-## 1.4 System Architecture
-
-The system architecture for the application is as followed:
-
-<a href="https://github.com/FASAL-MITRA-SIH-22/Fasal-mitra-frontend"><img width="auto" src="./AboutProject/ArchitectureDiagram.svg"  alt="System Architecture"/></a></a>
-
-## 1.4 Activity Diagram
-
-The activity diagram for the application is as followed:
-
-<a href="https://github.com/Ankit9134/KisanSathi/blob/main/KisanSathiFrontend"><img width="auto" src="./AboutProject/ActivityDiagram.svg"  alt="Activity Diagram"/></a></a>
-
 ## 1.5 Tech-Stack Used
 
 <div align="center">
