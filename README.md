@@ -104,3 +104,4 @@ A step by step series of examples that tell you how to get a development env run
 - Open [localhost:3000](localhost:3000) in the browser
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-authors-a-name--authorsa)
+<a href="https://github.com/FASAL-MITRA-SIH-22/Fasal-mitra-frontend"><img width="auto" src="https://github.com/FASAL-MITRA-SIH-22/Fasal-Mitra/blob/main/AboutProject/ArchitectureDiagram.svg"  alt="System Architecture"/></a>
